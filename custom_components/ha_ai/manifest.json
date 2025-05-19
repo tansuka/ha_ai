@@ -1,0 +1,8 @@
+{
+  "name": "HA AI Assistant",
+  "domain": "ha_ai_assistant",
+  "version": "1.0",
+  "documentation": "https://example.com",
+  "dependencies": [],
+  "requirements": []
+}
