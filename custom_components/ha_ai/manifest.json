@@ -2,7 +2,9 @@
   "name": "HA AI Assistant",
   "domain": "ha_ai_assistant",
   "version": "1.0",
-  "documentation": "https://example.com",
+  "documentation": "https://github.com/tansuka/ha_ai/wiki",
+  "issue_tracker": "https://github.com/tansuka/ha_ai/issues",
+  "codeowners": "tansuka",
   "dependencies": [],
   "requirements": []
 }
